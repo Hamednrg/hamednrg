@@ -11,8 +11,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love Photography and Videography
 
-<br />
-<br />
 
 
 ### Connect with me:
@@ -50,7 +48,7 @@
 <img align="left" alt="Xcode" width="26px" src="https://raw.githubusercontent.com/github/explore/530398b5c9b0fd57127e2564bd664575f02f52e4/topics/xcode/xcode.png" />
 
 
----
+
 
 
 
